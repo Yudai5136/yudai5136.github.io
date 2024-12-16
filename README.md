@@ -4,3 +4,5 @@
 テストです。
 
 [Markdownの記法](test.md)
+
+![jang wonyoung](photos/JANG_WONYOUNG.png)

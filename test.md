@@ -47,18 +47,11 @@
 
 ` $hoge = 1 `
 
-```html:sample
-    for(int i = 0; i < n; ++i){
-        printf("%d\n, i);
-    }
-```/
-
-```html:sample
-   <div class="radioWave">
-      <p>迷いの中あてなく見上げた空彩る星たちが</p>
-      <p>嘘みたいに晴れた朝に繋がることを教えてくれた</p>
-   </div>
-```/
+```c
+for(int i = 0; i < n; ++i){
+    printf("%d\n", i);
+}
+```
 
 
 
