@@ -2,3 +2,5 @@
 # 七大学OB戦　まとめ
 
 テストです。
+
+[Markdownの記法](test.md)
