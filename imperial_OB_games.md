@@ -2,6 +2,7 @@
 OB戦はAとBの両方が東京にいないタイミングで開催されます。合宿に行かない下級生は目を通しておくと良いです。
 
 目次
+
 [6/10 OBたちとの顔合わせ](https://yudai5136.github.io/imperial_OB_games.html#610-ob%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%AE%E9%A1%94%E5%90%88%E3%82%8F%E3%81%9B)
 
 [OB戦当日](https://yudai5136.github.io/imperial_OB_games.html#ob%E6%88%A6%E5%BD%93%E6%97%A5)
