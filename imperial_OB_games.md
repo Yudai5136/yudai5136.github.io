@@ -3,7 +3,9 @@ OB戦はAとBの両方が東京にいないタイミングで開催されます�
 
 目次
 [6/10 OBたちとの顔合わせ](https://yudai5136.github.io/imperial_OB_games.html#610-ob%E3%81%9F%E3%81%A1%E3%81%A8%E3%81%AE%E9%A1%94%E5%90%88%E3%82%8F%E3%81%9B)
+
 [OB戦当日](https://yudai5136.github.io/imperial_OB_games.html#ob%E6%88%A6%E5%BD%93%E6%97%A5)
+
 [選手への報酬の振り分け](https://yudai5136.github.io/imperial_OB_games.html#%E9%81%B8%E6%89%8B%E3%81%B8%E3%81%AE%E5%A0%B1%E9%85%AC%E3%81%AE%E6%8C%AF%E3%82%8A%E5%88%86%E3%81%91)
 
 
